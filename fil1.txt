@@ -1,6 +1,2 @@
 hello World 
-My name is kha
-
-
-
-I have changed everything here,and now I am moving 
+My name is khan
